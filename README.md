@@ -1,16 +1,14 @@
 # 💻 Sergio Esteban León Valencia — selvcebo
 
-## 👨‍💻 About Me  
+## 👨‍💻 About Me  /  Sobre mí 
 Full‑stack developer and software development technologist in training — Certified as a Programming Technician, currently completing a Technology degree in Software Analysis and Development at SENA.  
 
-## 👨‍💻 Sobre mí  
 Desarrollador full‑stack y tecnólogo en desarrollo de software en formación — Titulado como Técnico en Programación, actualmente curso Tecnología en Análisis y Desarrollo de Software en el SENA.  
 
-## 📜 Philosophy & Technical Ethics  
+## 📜 Philosophy & Technical Ethics  /  Filosofía y ética técnica  
 I believe in software as a long‑term craft, not disposable code. Every project I touch is built with reproducibility, clarity, and collaborative growth in mind. Documentation is not an afterthought — it's the narrative thread that makes code accessible to future contributors, regardless of their language or background.  
 I value open knowledge, community mentorship, and the idea that robust systems are those others can understand, maintain, and evolve.  
 
-## 📜 Filosofía y ética técnica  
 Concibo el software como un oficio a largo plazo, no como código desechable. Cada proyecto que desarrollo se basa en la reproducibilidad, la claridad y el crecimiento colaborativo. La documentación no es un añadido tardío, sino el hilo narrativo que hace el código accesible a futuros colaboradores, sin importar su idioma o contexto.  
 Valoro el conocimiento abierto, la mentoría comunitaria y la idea de que los sistemas verdaderamente robustos son aquellos que otros pueden comprender, mantener y evolucionar.
 
