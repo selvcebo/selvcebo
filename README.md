@@ -10,7 +10,8 @@ Methodology: Reproducibility, clean architecture, collaborative learning
 Approach: Narrative‑driven documentation, bilingual project READMEs, long‑term maintainability
 
 🚀 Featured Projects
-[♻ React-Project](https://github.com/selvcebo/React-Project) - A React Project using Vite, Node.js and Mongo, includes CRUD and more things!
+
+[♻ React-Project](https://github.com/selvcebo/React-Project) — A React Project using Vite, Node.js and Mongo, includes CRUD and more things!
 
 [🧬 KNN‑pacients](https://github.com/selvcebo/KNN-pacients) — End‑to‑end KNN classification pipeline with scikit‑learn, fully bilingual documentation
 
