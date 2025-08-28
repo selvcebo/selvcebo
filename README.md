@@ -1,9 +1,9 @@
 # 💻 Sergio Esteban León Valencia — selvcebo
 
 ## 👨‍💻 About Me  /  Sobre mí 
-Full‑stack developer and software development technologist in training — Certified as a Programming Technician, currently completing a Technology degree in Software Analysis and Development at SENA.  
+Full‑stack developer and software development technologist in training — Certified as a Programming Technician, and Data Analysis, Machine Learning and & AI course from SENA, currently completing a Technology degree in Software Analysis and Development at SENA.  
 
-Desarrollador full‑stack y tecnólogo en desarrollo de software en formación — Titulado como Técnico en Programación, actualmente curso Tecnología en Análisis y Desarrollo de Software en el SENA.  
+Desarrollador full‑stack y tecnólogo en desarrollo de software en formación — Titulado como Técnico en Programación, y curso de Análisis de Datos, Aprendizaje Automático e IA del SENA, actualmente curso Tecnología en Análisis y Desarrollo de Software en el SENA.  
 
 ## 📜 Philosophy & Technical Ethics  /  Filosofía y ética técnica  
 I believe in software as a long‑term craft, not disposable code. Every project I touch is built with reproducibility, clarity, and collaborative growth in mind. Documentation is not an afterthought — it's the narrative thread that makes code accessible to future contributors, regardless of their language or background.  
@@ -42,7 +42,7 @@ Valoro el conocimiento abierto, la mentoría comunitaria y la idea de que los si
 
 ---
 
-🛠 **Tech Stack / **  
+🛠 Tech Stack  
 
 ## 💻 Languages / Lenguajes  
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
