@@ -38,6 +38,6 @@ Tools: Git, Vite, npm, pip
 
 
 📫 Contact
-GitHub: github.com/selvcebo
+GitHub: [selvcebo github](github.com/selvcebo)
 
 Email: selvsena@gmail.com
