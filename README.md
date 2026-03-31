@@ -2,9 +2,19 @@
 
 **Full-stack developer & software architecture enthusiast** · Medellín, Colombia 🇨🇴
 
-Desarrollador full-stack con enfoque en **arquitectura de software** — actualmente finalizando la Tecnología en Análisis y Desarrollo de Software en el SENA, donde construí [SoftwArt](https://github.com/selvcebo/softwart-backend), un sistema de gestión real desplegado en producción para una PYME local.
+Full-stack developer focused on **software architecture** — currently finishing a Technology degree in Software Analysis and Development at SENA, where I built [SoftwArt](https://github.com/selvcebo/backend-softwart), a real management system deployed in production for a local PYME.
+
+Certified as a Programming Technician by SENA. Completed a Data Analysis, Machine Learning & AI course (SENA). My technical interest spans from system design down to the fundamentals of how language models actually work — knowing how to use tools isn't enough, I need to understand why they work.
+
+I work extensively with AI-assisted development — not as a shortcut, but as a force multiplier. I understand enough of what's happening under the hood to know when to trust the output and when to push back.
+
+---
+
+Desarrollador full-stack con enfoque en **arquitectura de software** — actualmente finalizando la Tecnología en Análisis y Desarrollo de Software en el SENA, donde construí [SoftwArt](https://github.com/selvcebo/backend-softwart), un sistema de gestión real desplegado en producción para una PYME local.
 
 Titulado como Técnico en Programación por el SENA. Cursé Análisis de Datos, Machine Learning e IA (SENA). Mi interés técnico va desde el diseño de sistemas hasta los fundamentos de cómo funcionan los modelos de lenguaje — no me alcanza con saber usar las herramientas, necesito entender por qué funcionan.
+
+Trabajo extensamente con desarrollo asistido por IA — no como atajo, sino como multiplicador de capacidad. Entiendo suficiente de lo que pasa por debajo para saber cuándo confiar en el output y cuándo cuestionarlo.
 
 ---
 
@@ -62,17 +72,22 @@ Pipeline de clasificación KNN con scikit-learn, documentación bilingüe.
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-
 ### Deploy / Despliegue
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
+
+### AI tools / Herramientas de IA
+![Claude](https://img.shields.io/badge/Claude-D4A574?style=flat&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D4A574?style=flat&logo=anthropic&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats / Estadísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=selvcebo&show_icons=true&theme=tokyonight&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=selvcebo&layout=compact&theme=tokyonight&cache_seconds=86400)
+<a href="https://github.com/selvcebo">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=selvcebo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvcebo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</a>
 
 ---
 
