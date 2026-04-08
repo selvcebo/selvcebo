@@ -2,7 +2,7 @@
 
 **Full-stack developer & software architecture enthusiast** · Medellín, Colombia 🇨🇴
 
-Full-stack developer focused on **software architecture** — currently finishing a Technology degree in Software Analysis and Development at SENA, where I built [SoftwArt](https://github.com/selvcebo/backend-softwart), a real management system deployed in production for a local PYME.
+Full-stack developer focused on **software architecture** — currently finishing a Technology degree in Software Analysis and Development at SENA, where I built [SoftwArt](https://github.com/SoftwArt), a real management system deployed in production for a local PYME.
 
 Certified as a Programming Technician by SENA. Completed a Data Analysis, Machine Learning & AI course (SENA). My technical interest spans from system design down to the fundamentals of how language models actually work — knowing how to use tools isn't enough, I need to understand why they work.
 
@@ -10,7 +10,7 @@ I work extensively with AI-assisted development — not as a shortcut, but as a 
 
 ---
 
-Desarrollador full-stack con enfoque en **arquitectura de software** — actualmente finalizando la Tecnología en Análisis y Desarrollo de Software en el SENA, donde construí [SoftwArt](https://github.com/selvcebo/backend-softwart), un sistema de gestión real desplegado en producción para una PYME local.
+Desarrollador full-stack con enfoque en **arquitectura de software** — actualmente finalizando la Tecnología en Análisis y Desarrollo de Software en el SENA, donde construí [SoftwArt](https://github.com/SoftwArt), un sistema de gestión real desplegado en producción para una PYME local.
 
 Titulado como Técnico en Programación por el SENA. Cursé Análisis de Datos, Machine Learning e IA (SENA). Mi interés técnico va desde el diseño de sistemas hasta los fundamentos de cómo funcionan los modelos de lenguaje — no me alcanza con saber usar las herramientas, necesito entender por qué funcionan.
 
@@ -28,20 +28,33 @@ Concibo el software como un oficio a largo plazo. Cada decisión de arquitectura
 
 ## 🚀 Featured projects / Proyectos destacados
 
-**[SoftwArt — Backend](https://github.com/selvcebo/backend-softwart)**
-REST API for a real PYME management system. Node.js + Express + TypeScript + TypeORM + PostgreSQL. MVC architecture, JWT auth with role-based access control, flexible installment payment model, atomic transactions, custom error hierarchy. Deployed on Render + Supabase.
+### 🏢 [SoftwArt](https://github.com/SoftwArt) — github.com/SoftwArt
 
-API REST para un sistema de gestión PYME real. Arquitectura MVC, auth JWT con control de acceso por rol, modelo de abonos flexible, transacciones atómicas, jerarquía de errores custom. Desplegado en Render + Supabase.
+Web and mobile management system for Arte Café, a framing shop in Medellín. Built end-to-end and deployed in production at [softwart.online](https://softwart.online).
 
-**[SoftwArt — Frontend](https://github.com/selvcebo/frontend-softwart-2)**
-Admin panel + client portal. React + TypeScript + Vite + Tailwind + shadcn/ui. Feature-based architecture, real-time availability TimePicker, installment modal with live preview, dual auth storage strategy. Live at [softwart.online](https://softwart.online).
+Sistema de gestión web y móvil para Arte Café, una marquetería en Medellín. Construido de punta a punta y desplegado en producción en [softwart.online](https://softwart.online).
 
-Panel admin + portal de clientes. Arquitectura feature-based, TimePicker con disponibilidad en tiempo real, modal de abonos con preview en vivo, estrategia de auth dual. En producción en [softwart.online](https://softwart.online).
+**[Backend](https://github.com/SoftwArt/backend-softwart)**
+REST API · Node.js + Express + TypeScript + TypeORM + PostgreSQL. MVC architecture, JWT auth with role-based access control, flexible installment payment model, atomic transactions, custom error hierarchy. Deployed on Render + Supabase.
 
-**[SoftwArt — Mobile](https://github.com/selvcebo/mobile-softwart)**
-Android companion app built with Flutter + Clean Architecture (data / domain / presentation). Provider for state management, warmup ping to avoid cold starts on Render's free tier. APK release generated (~49 MB).
+API REST · Arquitectura MVC, auth JWT con control de acceso por rol, modelo de abonos flexible, transacciones atómicas, jerarquía de errores custom. Desplegado en Render + Supabase.
 
-App Android complementaria con Flutter + Clean Architecture. Provider para estado, ping de warmup para evitar cold starts. APK release generado.
+**[Frontend](https://github.com/SoftwArt/frontend-softwart-2)**
+Admin panel + client portal · React + TypeScript + Vite + Tailwind + shadcn/ui. Feature-based architecture, real-time availability TimePicker, installment modal with live preview, dual auth storage strategy.
+
+Panel admin + portal de clientes · Arquitectura feature-based, TimePicker con disponibilidad en tiempo real, modal de abonos con preview en vivo, estrategia de auth dual.
+
+**[Mobile](https://github.com/SoftwArt/mobile-softwart)**
+Android companion app · Flutter + Clean Architecture (data / domain / presentation). Provider for state management, warmup ping to avoid cold starts on Render's free tier. APK release generated (~49 MB).
+
+App Android complementaria · Flutter + Clean Architecture. Provider para estado, ping de warmup para evitar cold starts. APK release generado.
+
+**[Docs](https://github.com/SoftwArt/softwart-docs)**
+Complete technical and academic documentation — UML diagrams, C4 model, class diagram, user story matrix (81 HUs), product backlog, story mapping.
+
+Documentación técnica y académica completa — diagramas UML, modelo C4, diagrama de clases, matriz de historias de usuario (81 HUs), product backlog, story mapping.
+
+---
 
 **[KNN-pacients](https://github.com/selvcebo/KNN-pacients)**
 End-to-end KNN classification pipeline with scikit-learn, bilingual documentation.
